@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-This document provides the code and explanations of the 2024 ARR submission for the paper Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning
+This document provides the code and explanations of the 2024 EMNLP Findings for the paper Improving Diversity of Commonsense Generation by Large Language Models via In-Context Learning
 
 ## **Requirements**
 
